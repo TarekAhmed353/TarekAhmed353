@@ -1,3 +1,8 @@
+<p align="center">
+  <img src="./assets/banner.png" alt="Tarek Ahmed Banner" width="100%">
+</p>
+<h2>👨‍💻 About Me</h2>
+
 <h1 align="center">Hi 👋, I'm Tarek Ahmed</h1>
 <h3 align="center">A passionate CSE student & Web Development Learner from Bangladesh</h3>
 
