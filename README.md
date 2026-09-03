@@ -25,3 +25,6 @@
 ![](https://streak-stats.demolab.com/?user=TarekAhmed353&theme=nightowl&hide_border=true)<br/>
 
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=TarekAhmed353&theme=nightowl&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Dev Quote" />
+</p>
