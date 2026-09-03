@@ -25,4 +25,4 @@
 ![](https://streak-stats.demolab.com/?user=TarekAhmed353&theme=nightowl&hide_border=true)<br/>
 
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=TarekAhmed353&theme=nightowl&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
-![](https://github-readme-quotes.vercel.app/quote?theme=tokyonight)
+![](https://quotes-github-readme.vercel.app/api?type=vertical&theme=nightowl)
