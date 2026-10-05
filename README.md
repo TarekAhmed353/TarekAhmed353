@@ -24,3 +24,7 @@
 
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=TarekAhmed353&theme=nightowl&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
 ![](https://quotes-github-readme.vercel.app/api?type=vertical&theme=nightowl)
+### 🐍 Git Contributions
+<div align="center">
+  <img src="https://raw.githubusercontent.com/TarekAhmed353/TarekAhmed353/output/github-snake-dark.svg" alt="Tarek Ahmed's Contribution Snake" />
+</div>
