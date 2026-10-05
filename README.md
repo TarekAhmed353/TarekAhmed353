@@ -26,5 +26,5 @@
 ![](https://quotes-github-readme.vercel.app/api?type=vertical&theme=nightowl)
 ### 🐍 Git Contributions
 <div align="center">
-  <img src="https://raw.githubusercontent.com/TarekAhmed353/TarekAhmed353/output/github-snake-dark.svg" alt="Tarek Ahmed's Contribution Snake" />
+  <img src="https://raw.githubusercontent.com/TarekAhmed353/TarekAhmed353/output/github-snake.svg" alt="Tarek Ahmed's Contribution Snake" />
 </div>
