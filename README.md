@@ -1,3 +1,6 @@
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,18,24,30&text=Tarek%20Ahmed&fontSize=50&fontAlignY=38&animation=twinkling&height=220&fontColor=ffffff" width="100%" alt="Header Banner" />
+</p>
 <h1 align="center">Hi 👋, I'm Tarek Ahmed</h1>
 <h3 align="center">A passionate CSE student & Web Development Learner from Bangladesh</h3>
 
