@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,20,50,100&text=Tarek%20Ahmed&desc=CSE%20Student%20%7C%20Web%20Development%20Learner&fontSize=48&descSize=18&fontAlignY=35&descAlignY=55&animation=twinkling&height=240&fontColor=ffffff" width="100%" alt="Header Banner" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,20,50,100&text=Tarek%20Ahmed&desc=CSE%20Student%20%7C%20Web%20Development%20Learner%20%7C%20AI%2FML%20Enthusiast&fontSize=48&descSize=16&fontAlignY=35&descAlignY=55&animation=twinkling&height=240&fontColor=ffffff" width="100%" alt="Header Banner" />
 </p>
 <h1 align="center">Hi 👋, I'm Tarek Ahmed</h1>
 <h3 align="center">A passionate CSE student & Web Development Learner from Bangladesh</h3>
